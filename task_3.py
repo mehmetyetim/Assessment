@@ -19,7 +19,7 @@ if __name__ == '__main__':
         if operation == 'L':
             i += 1
             exec(open('log_file_generator.py').read())
-            log_data = open('*.log', 'r')
+            log_data = open('access.log', 'r')
             for line in log_data:
                 ip = line.split(',')[0]
                 uri = line.split(',')[1]
