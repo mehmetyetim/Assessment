@@ -2,8 +2,11 @@
 
 ## **Table of Contents**
 
-* [**Task 1**](#task_1)
-* [**Task 2**]
+* [**Task 1**](#task-1)
+* [**Task 2**](#task-2)
+* [**Task 3**](#task-3)
+* [**Task 4**](#task-4)
+
 ### Task 1
 In this task, program will ask the user enter the password which should be more than 8 characters. 
 
@@ -37,7 +40,7 @@ Result of the program will appear as below
 
 ### Task 3
 
-In the third program, the user will be asked to load the file first and it will trigger another python file which generates ips, uris, and status codes which shows whether ip accessed to uri successfully or not.
+In the third program, the user will be asked to load the file, which its name should be blank so the user needs to just enter when asked for output file? (look at the image, below) first, and it will trigger another python file which generates ips, uris, and status codes which shows whether ip accessed to uri successfully or not.
 
 Then, the program can show basic statistics, and can summarise HTTP codes which shows the ratio of status code received in the log file.
 
@@ -53,7 +56,7 @@ Outcome of the third task will be seen as below
 
 ### Task 4
 
-In the last task, the result of race will be ordered based on the fastest lap which each player has finished and also show the average of laps for each driver. The data will be taking from lap_time txt file. 
+In the last task, the result of race will be ordered based on the fastest lap which each player has finished and also show the average of laps for each driver. The data will be taking from lap_time txt file after running lap_times_generator python file. 
 
 Result of the program will be like below
 
